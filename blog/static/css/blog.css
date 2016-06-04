@@ -1,0 +1,20 @@
+h1 a, h2 {
+    color: #FCA205;
+    font-family: 'Titillium Web';
+}
+
+.page-header {
+    background-color: #E7DE9A;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.date {
+    float: right;
+    color: #828282;
+}
+
+
+body{
+  padding-left:15px;
+}
